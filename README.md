@@ -6,6 +6,7 @@
 ![alt text](https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-the-drugdiagnostic-co-development-is-shaping-discovery-research-and-pharmacotherapy-317208.jpg)
 
 Projeto de Guilherme Bruno dos Santos
+Linkedin:  https://www.linkedin.com/in/guilhermebdossantos/
 
 Este repositório foi criado para postar o projeto final da imersão dados 3.
 
